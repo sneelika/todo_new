@@ -1,0 +1,23 @@
+# Ignore system and editor files
+.vscode/
+.idea/
+*.swp
+*~
+.project
+.DS_Store
+
+# Ignore dependencies
+node_modules/
+vendor/
+
+# Ignore build output
+build/
+dist/
+out/
+target/
+bin/
+
+# Ignore configuration files with secrets
+config.json
+secrets.yaml
+.env

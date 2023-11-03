@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+/node_modules
+
+# Build files
+/dist
+
+# React Native-specific
+/.expo
+__generated__
+.cache
+.expo-shared
+*.expo.js
+*.expo.ts
+
+# Android build output
+/android/app/build
+/android/build
+/android/gradle
+
+# iOS build output
+/ios/Pods
+/ios/build
+/ios/DerivedData
+/ios/Podfile.lock
+/ios/Pods
+/ios/*.xcworkspace
+
+# macOS specific files
+.DS_Store
